@@ -1,6 +1,6 @@
 # About なにこれ
-GnuPG Keyrings for UVGL.
-UVGLのGnuPG鍵でーす。
+GnuPG Keyrings for UVE.
+UVEのGnuPG鍵でーす。
 
 ## How to build a package パッケージの作成方法
 
