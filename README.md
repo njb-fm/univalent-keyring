@@ -6,7 +6,7 @@ UVEのGnuPG鍵でーす。
 
 #### 1. Import GPG key GPG鍵の導入
 ```bash
-gpg --keyserver keyserver.ubuntu.com --recv-key 048E45A1EC694BCE
+gpg --keyserver keyserver.ubuntu.com --recv-key 36F612F2
 ```
 
 #### 2. Clone PKGBUILD repository PKGBUILDリポジトリの複製
