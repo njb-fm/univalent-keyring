@@ -11,7 +11,7 @@ gpg --keyserver keyserver.ubuntu.com --recv-key 36F612F2
 
 #### 2. Clone PKGBUILD repository PKGBUILDリポジトリの複製
 ```bash
-git clone https://github.com/FascodeNet/univalent-pkgbuild.git
+git clone https://github.com/njb-fm/univalent-pkgbuild.git
 ```
 
 #### 3. Build a package パッケージの作成
